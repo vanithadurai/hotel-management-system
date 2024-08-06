@@ -1,4 +1,4 @@
-Hotel Management System
+<h1>Hotel Management System</h1>
 
 A hotel management system built with React for the frontend, Node.js for the backend, and MongoDB for data storage. 
 This system includes features for user authentication (signup, login and verification), and customer data management (entering, listing, updating, removing).
